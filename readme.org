@@ -4,6 +4,7 @@
 - *适用场景* ：无需个性化定制的场景；有销售记录的产品，向老客户推荐；套餐设计与产品摆放。
 ** 运行要求:
 #+begin_src bash
+streamlit run smart_sugg.py
 #+end_src
 
 
